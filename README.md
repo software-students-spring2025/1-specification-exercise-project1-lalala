@@ -42,6 +42,13 @@ Create a smart library service app that provides real-time space availability, l
 3. As an exhibitor, I want more students or faculty members to know about my exhibition in the library, so that more people can enjoy the exhibition.
 4. As an art student, I want to access the ongoing exhibitions so that I can explore different artworks and look for inspiration for my work.
 5. As a teacher assistant, I want to be able to use a printer when I get there, so that I won’t need to waste my time checking which printer is broken or running out of paper.
+6. As a faculty, I want to view the current academic workshops or the events happening in the library, so that I will not miss the events that interest me.
+7. As a PhD student, I want to know where to find the books in my current field of study so that I can easily locate the books I need for my research.
+8. As a professor who often forgets to bring things,  I want to be able to get information about the library’s lost and found so that there are larger chances for me to get my stuff back.
+9. As a student who has upcoming midterms, I want to see the availability of printers, so that I won’t spend too much time waiting in lines and being late to my exams. 
+10. As a student who lives far away from home, sometimes I need to borrow laptop chargers from other people so that I can continue to do my homework without going around asking and interrupting everyone in the quiet library.
+
+
 
 ## Activity Diagrams
 
