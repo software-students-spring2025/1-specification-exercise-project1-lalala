@@ -4,21 +4,23 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Haohan Fang
-Shuyuan Yang
-Yifan Zhang
-Jasmine Zhang
+- [Haohan Fang](https://github.com/FrankFangH)
+- [Shuyuan Yang](https://github.com/shuyuanyyy)
+- [Yifan Zhang](https://github.com/YifanZZZZZZ)
+- [Jasmine Zhang](https://github.com/Jasminezhang666666)
 
 ## Stakeholders
 
 ### Stakeholder 1  
 **Problems/Frustrations:**  
+
 1. Sometimes when I want to study in Bobst Library, it’s hard to find a place, and I don’t know where there are a lot of people or where there are fewer people.  
 2. I want to easily access the library information through an app form instead of rapidly checking the website. I want to know the behavioral requirements (food/drink allowance, quiet space or not, etc.) for each floor.  
 3. Sometimes I need to use printers in the Library, but I can’t identify the available printers and the waiting time. Sometimes, they are broken, too.   
 
 ### Stakeholder 2  
-**Problems/Frustrations:**  
+**Problems/Frustrations:** 
+
 4. Book search: I’m too shy to ask the librarian where a specific book is… Maybe that’s why I don’t really borrow books from the library.  
 5. I see interesting events or exhibitions going around in the library… but I only see those posters in person; I would like to see what ongoing events and exhibitions are currently happening in the library.  
 
