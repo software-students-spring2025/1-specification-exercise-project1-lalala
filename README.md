@@ -45,6 +45,8 @@ Create a smart library service app that provides real-time space availability, l
 8. As a professor who often forgets to bring things,  I want to be able to get information about the library’s lost and found so that there are larger chances for me to get my stuff back.
 9. As a student who has upcoming midterms, I want to see the availability of printers, so that I won’t spend too much time waiting in lines and being late to my exams. 
 10. As a student who lives far away from home, sometimes I need to borrow laptop chargers from other people so that I can continue to do my homework without going around asking and interrupting everyone in the quiet library.
+11. As a student reviewing for exams, I want to access a community chat room, so that I can find classmates, review our exams together, and share study tips. 
+12. As a student who wants to conduct research, I want to know about upcoming workshops and seminars so that I can enhance my academic skills and knowledge.
 
 
 
