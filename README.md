@@ -35,6 +35,7 @@ A little exercise to get started with the specification phase of the software de
 - The app should display real-time printer availability and status.
 - The app should feature a book search tool to help users locate books independently.
 - The app should offer a digital list of library events and exhibitions to keep users informed.
+- The app should provide a communication platform for library users to connect regarding lost and found, quick questions, and sharing research tips.
 
 ## Product Vision Statement
 
