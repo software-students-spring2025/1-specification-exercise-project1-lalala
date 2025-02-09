@@ -31,11 +31,15 @@ Jasmine Zhang
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Create a smart library service app that provides real-time space availability, library guidelines, printer status, book navigation, and event updates to enhance the Bobst Library experience.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a student, I want to view the real-time availability of study space so that I can find a quiet place to study.
+2. As a freshman, I want to check the rules for each library floor so that I can choose the right place to work.
+3. As an exhibitor, I want more students or faculty members to know about my exhibition in the library, so that more people can enjoy the exhibition.
+4. As an art student, I want to access the ongoing exhibitions so that I can explore different artworks and look for inspiration for my work.
+5. As a teacher assistant, I want to be able to use a printer when I get there, so that I won’t need to waste my time checking which printer is broken or running out of paper.
 
 ## Activity Diagrams
 
