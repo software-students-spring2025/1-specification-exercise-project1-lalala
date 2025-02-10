@@ -66,5 +66,5 @@ Design a smart library service app that enhances the Bobst Library experience by
 
 ## Clickable Prototype
 
-[Clickable Prototype](https://www.figma.com/proto/xTzXNUnGHxfV9fof5eh1Em/project1-lalala?node-id=0-1&t=RIBGTDemNtyh3bxK-1).
+[Bobst Library Service APP](https://www.figma.com/proto/xTzXNUnGHxfV9fof5eh1Em/project1-lalala?node-id=0-1&t=RIBGTDemNtyh3bxK-1).
 
