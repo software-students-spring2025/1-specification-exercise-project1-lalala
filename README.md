@@ -53,6 +53,9 @@ Design a smart library service app that enhances the Bobst Library experience by
 8. As a professor who often forgets things, I want to access information about the library’s lost and found so that I have a better chance of recovering my belongings.
 9. As a student with upcoming midterms, I want to see the availability of printers so that I won’t waste time waiting in line and risk being late for my exams.
 10. As a student who lives far from home, I want to borrow laptop chargers from other people so that I can continue my homework without interrupting everyone in the quiet library.
+11. As a student reviewing for exams, I want to access a community chat room, so that I can find classmates, review our exams together, and share study tips. 
+12. As a student who wants to conduct research, I want to know about upcoming workshops and seminars so that I can enhance my academic skills and knowledge.
+
 
 ## Activity Diagrams
 
@@ -63,4 +66,5 @@ Design a smart library service app that enhances the Bobst Library experience by
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Bobst Library Service APP](https://www.figma.com/proto/xTzXNUnGHxfV9fof5eh1Em/project1-lalala?node-id=0-1&t=RIBGTDemNtyh3bxK-1).
+
