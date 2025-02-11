@@ -60,9 +60,11 @@ Design a smart library service app that enhances the Bobst Library experience by
 ## Activity Diagrams
 
 - User Story 1: As a student, I want to view the real-time availability of study spaces so that I can find a quiet place to study.
-- ![Story 1 UML Diagram](./doc/moUmlStoryFirst.drawio.svg)
+---
+![Story 1 UML Diagram](./doc/moUmlStoryFirst.drawio.svg)
 - User Story 2: As a faculty member, I want to view the current academic workshops or events happening in the library so that I won’t miss the ones that interest me.
-- ![Story 2 UML Diagram](./doc/moUmlStorySecond.drawio.svg)
+---
+![Story 2 UML Diagram](./doc/moUmlStorySecond.drawio.svg)
 
 ## Clickable Prototype
 
